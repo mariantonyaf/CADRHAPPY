@@ -2,7 +2,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 150vh;
+    height: 95vh;
     background-color: rgba(168, 167, 167, 0.6);
 }
 
@@ -213,7 +213,6 @@ body {
 }
 
 p {
-    font-family: 'Brush Script MT';
     color: #333;
 }
 
